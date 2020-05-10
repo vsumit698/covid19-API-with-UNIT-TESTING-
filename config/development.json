@@ -1,0 +1,3 @@
+{
+    "DBhost" : "mongodb://localhost/covid19_db"
+}

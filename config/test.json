@@ -1,0 +1,11 @@
+{
+    "DBhost" : "mongodb://localhost/covid19_TEST_db",
+    "doctor" :{
+        "name" : "sumit",
+        "password" : "12345"
+    },
+    "token" : "",
+    "patient" :{
+        "phone" : "9667763162"
+    }
+}
