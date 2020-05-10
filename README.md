@@ -13,7 +13,7 @@ POST "/doctors/register" → For registration of Doctors, Fields required : Name
 
 POST "/doctors/login" → For Login of Doctors, Fields required : Username & Password
 
-POST "/doctors/register_patient" → For Registration of Patients, Fields Required : NAME & PHONE NUMBER, Need Token of Logged in Doctor in headers of request
+POST "/doctors/register_patient" → For Registration of Patients, Fields Required : PHONE NUMBER, Need Token of Logged in Doctor in headers of request
 
 POST "/patients/:id/create_report" → For Creating reports, Fields Required : status, Need Token of Logged in Doctor in headers of request
 
