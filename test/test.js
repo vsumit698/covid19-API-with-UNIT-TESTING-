@@ -24,7 +24,7 @@ const doctorAPItest = require('./doctorAPItest');
 const patientAPItest = require('./pateintAPItest');
 const reportAPItest = require('./reportAPItest');
 
-describe('testing for doctor (Registration,  LOG IN)', function(){
+describe('testing for COVID-19 API', function(){
     // deleting data from database before performing all test
     before(function(done){
         doctorModel.remove({},function(err){
