@@ -1,0 +1,13 @@
+# covid19-API-with-UNIT-TESTING-
+An API for the doctors of a Hospital which has been developed for the govt on testing and quarantine + well being of COVID-19 patients
+
+Highlights - 
+1. Initial Doctor needs to register on this via name and password.
+2. After doctor registration, patient registration has been done via phone number.
+3. After patient registration, Patient report has been created with particular status.
+4. Supported REPORT STATUS are - [negative, travelled-quarantine,
+    symptoms-quarantine, positive-admit]
+5. Filter all reports via preferred status and also shows PATIENT REPORTS.
+
+Skills - 
+JAVASCRIPT, NODE JS,MONGO DB,MOCHA-CHAI(testing)
